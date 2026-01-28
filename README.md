@@ -1,4 +1,4 @@
-# dql-data-warehouse-project
+# sql-data-warehouse-project
 # 📊 SQL Data Warehouse Project (Bronze–Silver–Gold Architecture)
 
 ## Overview
